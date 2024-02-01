@@ -1,0 +1,947 @@
+#EXTM3U
+#EXTINF:-1 , 香港衛視
+https://dtvzj.com/tag/m3u8/
+#EXTINF:-1 , 香港衛視
+http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+#EXTINF:-1 , 香港hks
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
+#EXTINF:-1 , 鳳凰衛視資訊臺
+http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8?icpid=88888888&from=30&hms_devid=1452
+#EXTINF:-1 , 鳳凰衛視資訊臺
+http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF:-1 , 鳳凰衛視中文臺
+http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid=88888888&from=30&hms_devid=1452
+#EXTINF:-1 , 鳳凰香港臺
+http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
+#EXTINF:-1 , 無線新聞
+http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+#EXTINF:-1 , 無線新聞
+http://cczylive.chuangwanghulian.cn/live/zy_1531983996445.flv?auth_key=1593500458-57590819-0-3bc1f0bf55895038da448c64a71d09f1
+#EXTINF:-1 , 有線新聞
+https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
+#EXTINF:-1 , 有線新聞
+https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+#EXTINF:-1 , 有線新聞
+https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+#EXTINF:-1 , 有線財經資訊
+https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
+#EXTINF:-1 , 有線綜合娛樂
+https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
+#EXTINF:-1 , 無線新聞
+http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+#EXTINF:-1 , 耀才財經
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 , 亞旅衛視
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1 , 澳亞衛視
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 , 蓮花衛視
+http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
+#EXTINF:-1 , 陽光衛視
+https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+#EXTINF:-1 , 陽光衛視
+http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
+#EXTINF:-1 , 澳門衛視
+http://stream.mastvnet.com/MSTV/SD/live.m3u8
+#EXTINF:-1 , 澳門有線CH1
+http://202.175.127.77/live/show/ch1/index.m3u8
+#EXTINF:-1 , 澳門有線互動新聞
+http://202.175.127.77/live/show/ch2/index.m3u8
+#EXTINF:-1 , 澳門有線CH3
+http://202.175.127.77/live/show/ch3/index.m3u8
+#EXTINF:-1 , 中華衛視臺灣
+http://pull.leshantangjt.com/live/playlist.m3u8
+#EXTINF:-1 , 原住民族電視臺
+https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
+#EXTINF:-1 , 亞美衛視
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1 , 中視
+http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF:-1 , 中視HD
+http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF:-1 , 中天綜合
+http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+#EXTINF:-1 , 中天娛樂
+http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+#EXTINF:-1 , 八大綜合
+http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+#EXTINF:-1 , 動物星球
+http://192.154.103.75:8080//ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+#EXTINF:-1 , 年代新聞
+http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+#EXTINF:-1 , 信吉電視
+http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
+#EXTINF:-1 , 信吉電視
+http://220.130.241.203:1935/sjtv/livestream_360p/playlist.m3u8
+#EXTINF:-1 , 國家地理
+http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+#EXTINF:-1 , 居家幸福
+http://61.58.60.230:9319/live/125.m3u8
+#EXTINF:-1 , 世紀綜合
+http://61.58.60.230:9319/live/49.m3u8
+#EXTINF:-1 , 靖天歡樂
+http://61.58.60.230:9319/live/201.m3u8
+#EXTINF:-1 , 靖天資訊
+http://61.58.60.230:9319/live/202.m3u8
+#EXTINF:-1 , 靖天娛樂
+http://61.58.60.230:9319/live/204.m3u8
+#EXTINF:-1 , 靖洋戲劇
+http://61.58.60.230:9319/live/203.m3u8
+#EXTINF:-1 , 靖天國際
+http://61.58.60.230:9319/live/205.m3u8
+#EXTINF:-1 , 靖洋卡通
+http://61.58.60.230:9319/live/206.m3u8
+#EXTINF:-1 , 靖天卡通
+http://61.58.60.230:9319/live/207.m3u8
+#EXTINF:-1 , 靖天映畫
+http://61.58.60.230:9319/live/244.m3u8
+#EXTINF:-1 , 點掌財經
+http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 , 博斯魅力
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?token=BIk2YfurpyjroYsSvl8Ciw&time=1558345786385
+#EXTINF:-1 , 臺新聞
+https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+#EXTINF:-1 , 臺視財經
+https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
+#EXTINF:-1 , 東森洋片
+http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+#EXTINF:-1 , 東森新聞
+http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF:-1 , 東森電影
+http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+#EXTINF:-1 , 龍祥時代電影
+http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
+#EXTINF:-1 , 好萊塢電影
+http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+#EXTINF:-1 , 華納電影
+http://192.154.103.75:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1 , 三立新聞
+http://60.199.188.66/HLS/WG_ETTV-N/02.m3u8
+#EXTINF:-1 , TVBS新聞
+http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8
+#EXTINF:-1 , GoodTV
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
+#EXTINF:-1 , GoodTV2
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 , GOOD TV好消息
+http://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 , GOOD TV烤箱讀書會
+http://live.streamingfast.net/osmflivech10.m3u8
+#EXTINF:-1 , GOOD TV烤箱讀書會
+http://live.streamingfast.net/osmflivech44.m3u8
+#EXTINF:-1 , GOOD TV健康新煮流
+http://live.streamingfast.net/osmflivech13.m3u8
+#EXTINF:-1 , GOOD TV真情部落格
+http://live.streamingfast.net/osmflivech14.m3u8
+#EXTINF:-1 , GOOD TV真情部落格
+http://live.streamingfast.net/osmflivech3.m3u8
+#EXTINF:-1 , GOOD TV共用觀點
+http://live.streamingfast.net/osmflivech5.m3u8
+#EXTINF:-1 , GOOD TV詩歌音樂
+http://live.streamingfast.net/osmflivech6.m3u8
+#EXTINF:-1 , GOOD TV禱告大軍
+http://live.streamingfast.net/osmflivech7.m3u8
+#EXTINF:-1 , GOOD TV幸福學堂
+http://live.streamingfast.net/osmflivech8.m3u8
+#EXTINF:-1 , GOOD TV愛+好醫生
+http://live.streamingfast.net/osmflivech9.m3u8
+#EXTINF:-1 , GOOD TV卡通
+http://live.streamingfast.net/osmflivech40.m3u8
+#EXTINF:-1 , GOOD TV維他命施
+http://live.streamingfast.net/osmflivech12.m3u8
+#EXTINF:-1 , 大愛一台
+http://61.58.60.230:9319/live/10.m3u8
+#EXTINF:-1 , 大愛二臺
+http://61.58.60.230:9319/live/191.m3u8
+#EXTINF:-1 , BBC經典
+http://qdntv96789.applinzi.com/96tv.php?633138330
+#EXTINF:-1 , FOX動作
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 , HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 , 緯來精采
+https://usb.bozztv.com/ssh101/ttvbHD/ttvbHD/index.m3u8
+#EXTINF:-1 , 博斯魅力
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 tvg-country="APAC" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Taiwan",Bloomberg TV Asia (720p)
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-country="APAC" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Taiwan",Bloomberg TV Asia Live Event (720p)
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 tvg-country="ASIA" tvg-language="English" tvg-logo="" group-title="Taiwan",Cartoon Network Asia (720p)
+http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
+#EXTINF:-1 tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="Taiwan",Celestial Movies (480p) [Geo-blocked]
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 tvg-country="ASIA" tvg-language="Thai" tvg-logo="https://i.imgur.com/vs51MBW.png" group-title="Taiwan",Fox Movies Asia (Thai) (720p) [Not 24/7]
+https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://en.wikipedia.org/wiki/Formosa_Television#/media/File:FTV_Show_Group.png" group-title="Taiwan",FTV News (720p)
+http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/1_file.jpg" group-title="Taiwan",GOOD TV CH1 綜合台 (720p)
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/2_file.jpg" group-title="Taiwan",GOOD TV CH2 真理台 (720p)
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/3_file.jpg" group-title="Taiwan",GOOD TV CH3 真情部落格 短版 (720p)
+https://live.streamingfast.net/osmflivech3.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/5_file.jpg" group-title="Taiwan",GOOD TV CH5 共享觀點 短版 (720p)
+https://live.streamingfast.net/osmflivech5.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/6_file.jpg" group-title="Taiwan",GOOD TV CH6 親近神 詩歌音樂 (720p)
+https://live.streamingfast.net/osmflivech6.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/7_file.jpg" group-title="Taiwan",GOOD TV CH7 禱告大軍 信息 (720p)
+https://live.streamingfast.net/osmflivech7.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/8_file.jpg" group-title="Taiwan",GOOD TV CH8 幸福學堂 短版 (720p)
+https://live.streamingfast.net/osmflivech8.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/9_file.jpg" group-title="Taiwan",GOOD TV CH9 愛+好醫生 短版 (720p)
+https://live.streamingfast.net/osmflivech9.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/10_file.jpg" group-title="Taiwan",GOOD TV CH10 烤箱讀書會 短版 (720p)
+https://live.streamingfast.net/osmflivech10.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/12_file.jpg" group-title="Taiwan",GOOD TV CH12 維他命施 (720p)
+https://live.streamingfast.net/osmflivech12.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/13_file.jpg" group-title="Taiwan",GOOD TV CH13 健康新煮流 短版 (720p)
+https://live.streamingfast.net/osmflivech13.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/14_file.jpg" group-title="Taiwan",GOOD TV CH14 真情部落格 (720p)
+https://live.streamingfast.net/osmflivech14.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/15_file.jpg" group-title="Taiwan",GOOD TV CH15 真情之夜 (720p)
+https://live.streamingfast.net/osmflivech15.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/16_file.jpg" group-title="Taiwan",GOOD TV CH16 葉光明 (720p)
+https://live.streamingfast.net/osmflivech16.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/17_file.jpg" group-title="Taiwan",GOOD TV CH17 大衛鮑森 (720p)
+https://live.streamingfast.net/osmflivech17.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/18_file.jpg" group-title="Taiwan",GOOD TV CH18 國際講員 (720p)
+https://live.streamingfast.net/osmflivech18.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/19_file.jpg" group-title="Taiwan",GOOD TV CH19 共享觀點 (720p)
+https://live.streamingfast.net/osmflivech19.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/20_file.jpg" group-title="Taiwan",GOOD TV CH20 恩典時分 (720p)
+https://live.streamingfast.net/osmflivech20.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/21_file.jpg" group-title="Taiwan",GOOD TV CH21 華語講員 (720p)
+https://live.streamingfast.net/osmflivech21.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/22_file.jpg" group-title="Taiwan",GOOD TV CH22 職場新視野 (720p)
+https://live.streamingfast.net/osmflivech22.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/23_file.jpg" group-title="Taiwan",GOOD TV CH23 空中主日學 生活 (720p)
+https://live.streamingfast.net/osmflivech23.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Min Nan Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/24_file.jpg" group-title="Taiwan",GOOD TV CH24 劉三講古 (720p)
+https://live.streamingfast.net/osmflivech24.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Min Nan Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/25_file.jpg" group-title="Taiwan",GOOD TV CH25 福氣人生 (720p)
+https://live.streamingfast.net/osmflivech25.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/26_file.jpg" group-title="Taiwan",GOOD TV CH26 空中主日學 查經 (720p)
+https://live.streamingfast.net/osmflivech26.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/27_file.jpg" group-title="Taiwan",GOOD TV CH27 空中聖經學院 (720p)
+https://live.streamingfast.net/osmflivech27.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/28_file.jpg" group-title="Taiwan",GOOD TV CH28 現代詩歌 (720p)
+https://live.streamingfast.net/osmflivech28.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/29_file.jpg" group-title="Taiwan",GOOD TV CH29 經典音樂河 (720p)
+https://live.streamingfast.net/osmflivech29.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/30_file.jpg" group-title="Taiwan",GOOD TV CH30 天堂敬拜 (720p)
+https://live.streamingfast.net/osmflivech30.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/31_file.jpg" group-title="Taiwan",GOOD TV CH31 福音佈道音樂會 (720p)
+https://live.streamingfast.net/osmflivech31.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/32_file.jpg" group-title="Taiwan",GOOD TV CH32 特會系列：禱告與轉化 (720p)
+https://live.streamingfast.net/osmflivech32.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/33_file.jpg" group-title="Taiwan",GOOD TV CH33 特會系列：研經培靈 (720p)
+https://live.streamingfast.net/osmflivech33.m3u8
+#EXTINF:-1 tvg-id="GOODTVCH36TeHuiXiLieChaoZiRanDaNengYiZhiShiFang.tw" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/36_file.jpg" group-title="Taiwan",GOOD TV CH36 特會系列：超自然大能．醫治釋放 (720p)
+https://live.streamingfast.net/osmflivech36.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/37_file.jpg" group-title="Taiwan",GOOD TV CH37 特會系列：以色列專題 (720p)
+https://live.streamingfast.net/osmflivech37.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/38_file.jpg" group-title="Taiwan",GOOD TV CH38 特會系列：青年特會 (720p)
+https://live.streamingfast.net/osmflivech38.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/40_file.jpg" group-title="Taiwan",GOOD TV CH40 家庭8點檔轉轉發現愛 (720p)
+https://live.streamingfast.net/osmflivech40.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/41_file.jpg" group-title="Taiwan",GOOD TV CH41 幸福學堂 (720p)
+https://live.streamingfast.net/osmflivech41.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/44_file.jpg" group-title="Taiwan",GOOD TV CH44 烤箱讀書會 (720p)
+https://live.streamingfast.net/osmflivech44.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/45_file.jpg" group-title="Taiwan",GOOD TV CH45 卡通 (720p)
+https://live.streamingfast.net/osmflivech45.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/47_file.jpg" group-title="Taiwan",GOOD TV CH47 牧者頻道 (720p)
+https://live.streamingfast.net/osmflivech47.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/49_file.jpg" group-title="Taiwan",GOOD TV CH49 禱告頻道 (720p)
+https://live.streamingfast.net/osmflivech49.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/50_file.jpg" group-title="Taiwan",GOOD TV CH50 國際講員 中文發音 (720p)
+https://live.streamingfast.net/osmflivech50.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="" tvg-logo="https://i.imgur.com/RuAYuSM.png" group-title="Taiwan",Indigenous TV (720p)
+http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="ASIA" tvg-language="" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Taiwan",National Geographic Wild Asia (720p) [Not 24/7]
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="Taiwan",中天新聞 (1080p)
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="http://titv.ipcf.org.tw/images/logo.png" group-title="Taiwan",原住民電視 (720p)
+http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ttv.com.tw/news/15/images/TTV-N_logo200-min.png" group-title="Taiwan",台視新聞 (1080p)
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="Taiwan",唯心電視 (480p)
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://store-images.s-microsoft.com/image/apps.14454.9007199266706361.be7aa2de-7429-4e34-b9a4-eca9a55157c1.3eb6a511-ff23-46aa-bf3a-b8b7e7e5c808?mode=scale&q=90&h=270&w=270&background=%23FFFFFF" group-title="Taiwan",壹電視新聞台 (1080p)
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="http://www.daai.tv/images/logo.png" group-title="Taiwan",大愛1 (720p)
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png" group-title="Taiwan",大愛2 (720p)
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Min Nan Chinese" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png" group-title="Taiwan",大立電視 (720p)
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="Taiwan",東森新聞 (1080p)
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" group-title="Taiwan",東森財經新聞 (1080p)
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="Taiwan",民視 (720p)
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="Taiwan",民視台灣 (720p)
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="Taiwan",民視新聞台 (720p)
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="Taiwan",民視第一 (720p)
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Taiwan",立法院IVOD直播交通委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Taiwan",立法院IVOD直播內政委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Taiwan",立法院IVOD直播司法及法制委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Taiwan",立法院IVOD直播外交及國防委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Taiwan",立法院IVOD直播教育及文化委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Taiwan",立法院IVOD直播朝野協商 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Taiwan",立法院IVOD直播社會福利及衛生環境委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Taiwan",立法院IVOD直播經濟委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Taiwan",立法院IVOD直播財政委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Taiwan",立法院IVOD直播院會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.hwazan.org/statics/images/newhztv_logo.png" group-title="Taiwan",華藏衛視 (720p)
+http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+#EXTINF:-1 , 新唐人亞太台
+https://live.ntdimg.com/aplive200/playlist.m3u8
+#EXTINF:-1 , 新唐人中國台
+https://live.ntdimg.com/cnlive/playlist.m3u8
+#EXTINF:-1 , 新唐人美東台
+https://live.ntdimg.com/live400/playlist.m3u8
+#EXTINF:-1 , 新唐人美東台
+http://174.127.67.246/live330/playlist.m3u8
+#EXTINF:-1 , 新唐人美西台
+https://live.ntdimg.com/uwlive990/playlist.m3u8
+#EXTINF:-1 , 新唐人美西台
+http://live.ntdimg.com/uwlive520/playlist.m3u8
+#EXTINF:-1 , 新唐人加東台
+https://live.ntdimg.com/mllive860/playlist.m3u8
+#EXTINF:-1 , 新唐人加西台
+https://live.ntdimg.com/cwlive220/playlist.m3u8
+#EXTINF:-1 , 新唐人舊金山台
+https://live.ntdimg.com/sflive990/playlist.m3u8
+#EXTINF:-1 , NHK華語視界
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+#EXTINF:-1 , 新加坡8頻道
+http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1 , BabyFirst
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 , C +
+https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
+#EXTINF:-1 , 香港電臺31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 , 香港電臺32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:-1 , 國家地理
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 , 國家地理人士
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 , 國家地理野生
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 , 全美電視
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1 , 加拿大國家電視臺
+https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
+#EXTINF:-1 , 放鬆吉他音樂
+https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
+#EXTINF:-1 , 新聞網（高清）
+https://bozztv.com/36bay2/gin-newsnet/index.m3u8
+#EXTINF:-1 , FASHIONTV
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
+#EXTINF:-1 , 立即開始
+https://bozztv.com/veset1/720pHi/playlist_720pHi.m3u8
+#EXTINF:-1 , 5m快速工藝品
+https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
+#EXTINF:-1 , 5m生活黑客
+https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
+#EXTINF:-1 , 5m廚房黑客
+https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
+#EXTINF:-1 , 韓國中央電視臺
+https://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 , MBC
+http://211.54.140.36/hdmi
+#EXTINF:-1 , KBS 2
+http://msl.tvbayoplus.com:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.m3u8
+#EXTINF:-1 , SBS
+http://23.237.112.138:9083/live/lmgr218-live1/an/Ec/anEch5GmlJzMh-jcs1OTow==/live.m3u8
+#EXTINF:-1 , 趕上1
+http://23.237.112.138:9083/live/lmgr218-live1/Wj/Nz/WjNzluqgVARhAtul5gUKtg==/live.m3u8
+#EXTINF:-1 , MBN
+http://23.237.112.138:9083/live/lmgr218-live1/j7/qy/j7qybKo1-oIO_R2EKcmcIA==/live.m3u8
+#EXTINF:-1 , MNet
+http://23.237.112.138:9083/live/lmgr218-live1/DD/kh/DDkhewBlWWfGWPVkTkDWNA==/live.m3u8
+#EXTINF:-1 , OCN
+http://23.237.112.138:9083/live/lmgr218-live1/GR/13/GR13XDGjlUsD8nZQasCIhw==/live.m3u8
+#EXTINF:-1 , YTN
+http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+#EXTINF:-1 , YTN DMB
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+#EXTINF:-1 , YTN韓文
+http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
+#EXTINF:-1 , NHK総合
+http://203.162.235.41:16903
+#EXTINF:-1 , NHK Eテレ
+http://203.162.235.41:16901
+#EXTINF:-1 , NHK BSプレミアム
+http://203.162.235.41:16910
+#EXTINF:-1 , TBSテレビ
+http://203.162.235.41:16907
+#EXTINF:-1 , BS TBS
+http://203.162.235.41:16913
+#EXTINF:-1 , テレビ朝日
+http://203.162.235.41:16906
+#EXTINF:-1 , BS朝日
+http://203.162.235.41:16914
+#EXTINF:-1 , フジテレビ
+http://203.162.235.41:16904
+#EXTINF:-1 , BSフジ
+http://203.162.235.41:16911
+#EXTINF:-1 , テレビ東京
+http://203.162.235.41:16908
+#EXTINF:-1 , BS東京
+http://203.162.235.41:16915
+#EXTINF:-1 , BS日テレ
+http://203.162.235.41:16912
+#EXTINF:-1 , 日テレ
+http://203.162.235.41:16905
+#EXTINF:-1 , WOWOWシネマ
+http://203.162.235.41:16916
+#EXTINF:-1 , 群馬テレビ
+https://movie.mcas.jp/switcher/mcas8_2/chunklist.m3u8
+#EXTINF:-1 , 東京MX 1
+http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+#EXTINF:-1 , 東京MX 2
+http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:-1 , MX Live
+http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF:-1 , ウェザーニュース
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 , 寶石GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
+#EXTINF:-1 , 寶石GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist_w1860888413_b600000.m3u8
+#EXTINF:-1 , 聲優廣播
+http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
+#EXTINF:-1 , 全天新聞
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 , CGNTV日本
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklist_w564190259.m3u8
+#EXTINF:-1 , 日本QVC
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese;English" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Japan",Animax Japan (English Subs) (1080p)
+https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese;Indonesian" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Japan",Animax Japan (Indonesian Subs) [Geo-blocked]
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese;Vietnamese" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Japan",Animax Japan (Vietnamese Subs) (720p)
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ATX.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.at-x.com/favicon_android.png" group-title="Japan",AT-X (480p) [Not 24/7]
+https://sub2.neetball.net/live/neet.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-country="APAC" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Japan",Bloomberg TV Asia (720p)
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.us" tvg-country="APAC" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Japan",Bloomberg TV Asia Live Event (720p)
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.us" tvg-country="ASIA" tvg-language="English" tvg-logo="" group-title="Japan",Cartoon Network Asia (720p)
+http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
+#EXTINF:-1 tvg-id="CGNTVJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/rXrSsiI.jpg" group-title="Japan",CGNTV Japan (720p)
+http://cgntv-glive.ofsdelivery.net/live/cgntv_jp/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxMoviesAsia.us" tvg-country="ASIA" tvg-language="Thai" tvg-logo="https://i.imgur.com/vs51MBW.png" group-title="Japan",Fox Movies Asia (Thai) (720p) [Not 24/7]
+https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="FujiTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Japan",Fuji TV (540p)
+https://fujitv1.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-id="GSTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/8AM9fC8.jpg" group-title="Japan",GSTV (720p)
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="GTNTyphome.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/gFKvgAd.jpg" group-title="Japan",GTN Typhome (English Subs) (720p) [Not 24/7]
+https://hamada.gaki-no-tsukai.eu:2087/hls/test.m3u8
+#EXTINF:-1 tvg-id="GunmaTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/800px-Gtv_logo_ja_01.svg.png" group-title="Japan",Gunma TV (720p)
+https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWildAsia.us" tvg-country="ASIA" tvg-language="" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Japan",National Geographic Wild Asia (720p) [Not 24/7]
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-id="NewJapanProWrestlingWorld.jp" tvg-country="JP" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Japan",New Japan Pro Wrestling World (540p)
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="NHKChineseVision.jp" tvg-country="JP" tvg-language="Chinese" tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="Japan",NHK Chinese Vision (720p)
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Japan",NHK General TV (540p)
+https://nhk1.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-country="JP" tvg-language="" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="Japan",NHK World (720p)
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="Japan",NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="NHKHuaYuShiJie.jp" tvg-country="JP" tvg-language="" tvg-logo="http://www.tvyan.com/uploads/dianshi/nhkhuayu.jpg" group-title="Japan",NHK华语视界 (720p)
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+#EXTINF:-1 tvg-id="NipponTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Japan",Nippon TV (540p) [Not 24/7]
+https://ntv1.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="NTVNews24.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="Japan",NTV News24 (480p)
+https://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 tvg-id="QVCJapan.us" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png" group-title="Japan",QVC Japan (720p)
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 tvg-id="ShopChannel.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Japan",Shop Channel (720p)
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="TBS.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Japan",TBS (540p) [Not 24/7]
+https://tbs.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-id="TokyoMX.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Japan",Tokyo MX (720p)
+https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Japan",Tokyo MX1 (360p)
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+#EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Japan",Tokyo MX2 (360p)
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+#EXTINF:-1 tvg-id="WeatherChanneluezaniyusuBSWNI.jp" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Japan",Weather Channel (ウェザーニュース) (BS | WNI) (720p)
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 tvg-id="WeatherNews.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="Japan",Weather News (720p)
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:-1 , 花花公子蒙古
+http://spacetv.in/stream/WUQP6BVK17/56.m3u8
+#EXTINF:-1 , 韓國Arirang（Opt-1）
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 , 泰國DDTV
+http://203.156.63.20:1935/live/ddtv/playlist.m3u8
+#EXTINF:-1 , 越南ANTVHD
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 tvg-id="3ABN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GVZuKc7.png" group-title="United States",3ABN (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
+#EXTINF:-1 tvg-id="K17JIDT3.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zI6jr9L.png" group-title="United States",3ABN Dare to Dream (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
+#EXTINF:-1 tvg-id="3ABNFrancais.us" tvg-country="US" tvg-language="French" tvg-logo="https://i.imgur.com/V6bL5MJ.png" group-title="United States",3ABN Français (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8
+#EXTINF:-1 tvg-id="3ABNInternational.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vhb8zvB.png" group-title="United States",3ABN International (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
+#EXTINF:-1 tvg-id="3ABNKids.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eOvzf3d.png" group-title="United States",3ABN Kids (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 tvg-id="K18JLD2.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4ydVVIA.png" group-title="United States",3ABN Latino (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+#EXTINF:-1 tvg-id="K17JIDT4.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4ydVVIA.png" group-title="United States",3ABN Latino (480p)
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+#EXTINF:-1 tvg-id="3ABNPraiseHimMusicChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/t6Ydwqg.png" group-title="United States",3ABN Praise Him Music Channel (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
+#EXTINF:-1 tvg-id="K17JIDT2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/KiMtKUL.png" group-title="United States",3ABN Proclaim! (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
+#EXTINF:-1 tvg-id="3ABNRussia.us" tvg-country="US" tvg-language="Russian" tvg-logo="https://i.imgur.com/8fKWpo3.png" group-title="United States",3ABN Russia (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/master.m3u8
+#EXTINF:-1 tvg-id="WKYC.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tjlSkyp.jpg" group-title="United States",3 Studios Cleveland OH (WKYC) (1080p)
+https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="WHDH.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="United States",7News Boston MA (WHDH) (540p)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+#EXTINF:-1 tvg-id="KBMT.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/boVFg14.jpg" group-title="United States",12 News Beaumont TX (KBMT) (1080p)
+https://livevideo01.12newsnow.com/hls/live/2017379/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="KEROTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" group-title="United States",23 ABC Bakersfield CA (KERO) (720p)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FiTdDp1.png" group-title="United States",24 Hour Free Movies (720p)
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+#EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/l2O0fY1.png" group-title="United States",30A Darcizzle Offshore (720p)
+https://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 tvg-id="30AInvestmentPitch.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="United States",30A Investment Pitch (720p)
+https://30a-tv.com/feeds/xodglobal/30atv.m3u8
+#EXTINF:-1 tvg-id="30AMusic.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="United States",30A Music (720p)
+https://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-id="30ASidewalks.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png" group-title="United States",30A Sidewalks (720p)
+https://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1 tvg-id="30ATheBeachShow.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/0j5Aget.png" group-title="United States",30A The Beach Show (720p)
+https://30a-tv.com/beachy.m3u8
+#EXTINF:-1 tvg-id="247RetroTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/247RetroTV.png" group-title="United States",247 Retro TV (432p)
+http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
+#EXTINF:-1 tvg-id="WSBTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HkY10xX.jpg" group-title="United States",ABC 2 Atlanta GA (WSB-TV) (720p)
+https://d2rwx6gwduugne.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10010_183ec1c7-4183-4661-803b-3ed282ffb625_LE/in/cmg-wsbtvnow-hls-v3/live.m3u8
+#EXTINF:-1 tvg-id="WSBTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tLNvGbt.png" group-title="United States",ABC 2 Atlanta GA (WSB-TV) (720p)
+https://wsb-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec7509821af343da7fe7c3_wsb-live/12c84bd8-1f84-4a65-b6b7-ce6a8c1418b5/0.m3u8
+#EXTINF:-1 tvg-id="WBRZ.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png" group-title="United States",ABC 2 Baton Rouge LA (WBRZ) (720p)
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KIII.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/svfSv3O.jpg" group-title="United States",ABC 3 Corpus Christi TX (KIII) (1080p)
+https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="WTAETV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4iEFQjd.png" group-title="United States",ABC 4 Pittsburg PA (WTAE) (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
+#EXTINF:-1 tvg-id="KOMOTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8vXRrRe.jpg" group-title="United States",ABC 4 Seattle WA (KOMO-TV) (720p)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1 tvg-id="WEWSTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/VCH35gk.png" group-title="United States",ABC 5 Cleveland OH (WEWS-TV) (1080p)
+https://wews-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6019eb7b342c731b5409c872_wews-live/8d8d2802-5dff-4a78-9a88-3e39925dc2eb/0.m3u8
+#EXTINF:-1 tvg-id="WEWSTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/606e0f9a9739652ec518e8c1" group-title="United States",ABC 5 Cleveland OH (WEWS-TV) (1080p)
+https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
+#EXTINF:-1 tvg-id="WOI.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1jA3nKg.jpg" group-title="United States",ABC 5 Des Moines IA (WOI) (1080p)
+https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="KSTPTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UZWNjGs.png" group-title="United States",ABC 5 Minneapolis MN (KSTP) (720p)
+https://iptv-all.lanesh4d0w.codes/united-states/kstp-tv
+#EXTINF:-1 tvg-id="KOCOTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yxEbZqn.jpg" group-title="United States",ABC 5 Oklahoma City OK (KOCO) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
+#EXTINF:-1 tvg-id="KFBBTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eelz8kT.png" group-title="United States",ABC 5 Right Now | Great Falls | Helena MT (KFBB-TV) (720p)
+https://kfbb-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60f9b05e1bdb905c0636aaa2_kfbb-live/d041b5d9-5786-497e-83fc-dc60c9d17d28/1.m3u8
+#EXTINF:-1 tvg-id="KMGHTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JExsI09.png" group-title="United States",ABC 7 Denver CO (KMGH) (720p)
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 tvg-id="WMGHTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/MIVPvXa.png" group-title="United States",ABC 7 Denver CO (WMGH-TV) (1080p)
+https://kmgh-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ac1ac9ac0d4b0b9306bb13_kmgh-live/e34adc98-d22c-4041-b839-3a61c621718d/0.m3u8
+#EXTINF:-1 tvg-id="WXYZTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/J9fH2sG.png" group-title="United States",ABC 7 Detroit MI (WXYZ-TV) (1080p)
+https://wxyz-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ae91960fc0ab60b432e002_epg-wxyz/909fd6c5-ec37-4fc5-a760-7324bb1053d4/0.m3u8
+#EXTINF:-1 tvg-id="WXYZTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8sQ5mfL.png" group-title="United States",ABC 7 Detroit MI (WXYZ-TV) (720p) [Not 24/7]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8
+#EXTINF:-1 tvg-id="KABCTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19570/s28708_h3_aa.png" group-title="United States",ABC 7 Los Angeles CA (KABC-DT1) (720p)
+https://cdn87.theus6tv.tk/locals/SoCal/kabc-dt1.m3u8
+#EXTINF:-1 tvg-id="KABCTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/nKAUCLF.jpg" group-title="United States",ABC 7 Los Angeles CA (KABC-TV) (720p)
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/KABCwatch.m3u8
+#EXTINF:-1 tvg-id="WABCTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/99K3yyn.png" group-title="United States",ABC 7 New York NY (WABC-TV) (720p)
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wabc-dt1.m3u8
+#EXTINF:-1 tvg-id="KETVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BuO1yHQ.png" group-title="United States",ABC 7 Omaha NE (KETV) (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KETV.m3u8
+#EXTINF:-1 tvg-id="KGOTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/KGOTVABC7.png" group-title="United States",ABC 7 San Francisco CA (KGO-TV) (720p)
+https://cdn87.theus6tv.tk/locals/BayArea/kgo-dt1.m3u8
+#EXTINF:-1 tvg-id="WWSBDT.us" tvg-country="US" tvg-language="English" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/raycom/HJ3SAXRMNFAHXOFIRVYCQBIOGM.jpg" group-title="United States",ABC 7 Sarasota FL (WWSB) (720p)
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
+#EXTINF:-1 tvg-id="WJLATV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LttuGfq.png" group-title="United States",ABC 7 Washington DC (WJLA) (720p)
+https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
+#EXTINF:-1 tvg-id="WFAA.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/0a0FVSv.jpg" group-title="United States",ABC 8 Dallas TX (WFAA) (1080p)
+https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="WQAD.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CZZBTGv.jpg" group-title="United States",ABC 8 Davenport IA (WQAD) (1080p)
+https://livevideo01.wqad.com/hls/live/2011657/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="WSOCTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7forojc.jpg" group-title="United States",ABC 9 Charlotte NC (WSOC-TV) (720p)
+https://wsoc-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec767ccf811b28ab4b5178_wsoc-live/fc31136d-53d2-40ce-bf5c-968151104189/0.m3u8
+#EXTINF:-1 tvg-id="KMBCTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/DCBHkiP.jpg" group-title="United States",ABC 9 Kansas City MO (KMBC-TV) (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
+#EXTINF:-1 tvg-id="WMURTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6oNx5F0.png" group-title="United States",ABC 9 Manchester NH (WMUR-TV) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
+#EXTINF:-1 tvg-id="WFTVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://mediaweb.wftv.com/theme/images/placeholder-square.jpg" group-title="United States",ABC 9 Orlando FL (WFTV) (540p)
+https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
+#EXTINF:-1 tvg-id="WFTVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2TYoO5j.png" group-title="United States",ABC 9 Orlando FL (WFTV-TV) (720p)
+https://wftv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec6c88697fde61b473b215_wftv-live/02d33bc1-916f-49a6-b410-0cf80a00f52b/0.m3u8
+#EXTINF:-1 tvg-id="KXTVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/aqxCgyG.jpg" group-title="United States",ABC 10 Sacramento CA (KXTV) (1080p)
+https://livevideo01.abc10.com/hls/live/2014547/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="KGTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1j1Hx75.png" group-title="United States",ABC 10 San Diego CA (KGTV) (720p)
+https://kgtv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_608c3eab42d73848377823a0_kgtv-live/64a7b248-d0ab-4bb0-ac0a-241cbec4c23a/0.m3u8
+#EXTINF:-1 tvg-id="WHAS.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ATiQ6J9.jpg" group-title="United States",ABC 11 Louisville KY (WHAS) (1080p)
+https://livevideo01.whas11.com/hls/live/2016284/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="WZZM.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eapvJpP.jpg" group-title="United States",ABC 13 Grand Rapids MI (WZZM) (1080p)
+https://livevideo01.wzzm13.com/hls/live/2016280/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="KTNVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/QbkW7zY.png" group-title="United States",ABC 13 Las Vegas NV (KTNV) (720p)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1 tvg-id="WVEC.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/P5PtUcR.jpg" group-title="United States",ABC 13 Norfolk VA (WVEC) (1080p)
+https://livevideo01.13newsnow.com/hls/live/2014545/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="KNXVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SBiEXzP.png" group-title="United States",ABC 15 Phoenix AZ (KNXV-TV) (1080p)
+https://d1x9zfzf9roioy.cloudfront.net/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60998e4a5b0b051955170c4e_knxv-live/b7ba6371-db64-4797-9ff9-0a6e3f3c2ff1/0.m3u8
+#EXTINF:-1 tvg-id="KNXVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/KNXV_Logo.png" group-title="United States",ABC 15 Phoenix AZ (KNXV-TV) (720p)
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:-1 tvg-id="WNEP.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1s3Euh5.jpg" group-title="United States",ABC 16 Wilkes Barre PA (WNEP) (1080p)
+https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="KVUETV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/nLBEhIx.jpg" group-title="United States",ABC 24 Austin TX (KVUE) (1080p)
+https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="WATNTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ukf1WZ0.jpg" group-title="United States",ABC 24 Memphis TN (WATN-TV) (1080p)
+https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="WFTSTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/R8o4o9i.png" group-title="United States",ABC 28 Action News Tampa Bay FL (WFTS-TV) (720p)
+https://wfts-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60abf8e76af28261840b9882_wfts-live/ff2299eb-ac63-4030-9d0a-41269d4ccb6e/6.m3u8
+#EXTINF:-1 , 美國芝加哥WGN9頻道HD
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 , 美國免費IPTV
+http://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:-1 , 美國世界新聞
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
+#EXTINF:-1 , 美國彭博電視臺歐洲
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 , 美國CGTN（Opt-1）
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 , 美國CGTN（Opt-2）
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 , 美國360北
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:-1 , 美國Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1 , 美國布法羅電視臺
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1 , 美國CBS新聞（Opt-1）
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 , 美國丹佛8電視臺
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF:-1 , 美國福克斯新聞臺電臺
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1 , 美國珠寶電視臺
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+#EXTINF:-1 , 美國Newsmax電視臺
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 , 美國VTV 6頻道科羅拉多
+http://hls.ksl.com/t/strata/playlist.m3u8
+#EXTINF:-1 , 美國天氣國家
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/ http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 , 美國本土CBS 4新聞（印第安納波利斯）
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+#EXTINF:-1 , 美國本土第11頻道新聞WPXI（匹茲堡）
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:-1 , 加拿大CBC新聞（VOD）
+http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+#EXTINF:-1 , 加拿大購物頻道
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 , 英國MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 , 法國CGTN
+http://live.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 , 法國Francophonie 24
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1 , 德國巴登電視臺
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 , 德國Isar TV
+http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1 , 德國MDF.1
+http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+#EXTINF:-1 , 德國慕尼黑電視臺
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
+#EXTINF:-1 , 德國Oberpfalz電視
+http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
+#EXTINF:-1 , 德國Offener Kanal Magdeburg
+http：//iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8？bitrate = 800
+#EXTINF:-1 , 德國pop10
+http：//iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8？bitrate = 800
+#EXTINF:-1 , 德國RFO
+http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
+#EXTINF:-1 , 德國TVA Ostbayern
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
+#EXTINF:-1 , 德國電視上弗蘭肯
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 , 德國QVC
+http://ios-stream.qvc.de/qvc.m3u8
+#EXTINF:-1 , 義大利m20電視
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 , 義大利Radio Capital TiVu
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 , 義大利義大利廣播電視臺
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1 , 義大利Rai電影
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 , 義大利Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1 , 義大利天空TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1 , 義大利Sudtirol電視
+http://77.72.196.214:8554/live/SuedtirolTV/livestream.m3u8
+#EXTINF:-1 , 義大利SuperTV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1 , 義大利TVRS
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1 , 義大利影片佈雷西亞
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+#EXTINF:-1 , 義大利影片卡拉布里亞
+http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
+#EXTINF:-1 , 巴西Rede TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
+#EXTINF:-1 , 西班牙皇馬足球檯HD
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:-1 , 西班牙Calle 13
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+#EXTINF:-1 , 西班牙運河（已更新）
+http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
+#EXTINF:-1 , 西班牙Navarra TV（Opt-2）
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol= http_cupertino/playlist.m3u8
+#EXTINF:-1 , 西班牙RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1 , 西班牙TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1 , 西班牙TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:-1 , 西班牙加利西亞歐洲電視臺
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 , 俄羅斯阿斯特拉罕24（Opt-2）
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1 , 俄羅斯CGTN
+http://live.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 , 俄羅斯第一音樂（Opt-3）
+http://rtmp.one.by:1200
+#EXTINF:-1 , 俄羅斯高清時尚
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 , 俄羅斯Krasnaja Linija
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1 , 俄羅斯大多數影片電視1
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 , 俄羅斯Muz Sojuz
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1 , 俄羅斯MTVmix烏法
+http://81.30.182.82:18092/hls/live.m3u8
+#EXTINF:-1 , 俄羅斯Nastoyashcheye Vremya
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:-1 , 俄羅斯RBC（Opt-1）
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 , 俄羅斯Shanson TV（Opt-1）
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1 , 俄羅斯Shanson TV（Opt-2）
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 , 俄羅斯蒂維科姆·烏蘭·烏傑
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+#EXTINF:-1 , 俄羅斯Tjumenskoe Vremja
+http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+#EXTINF:-1 , 俄羅斯TopShop
+http://tv-topshop.netrack.ru/hls/topshop.m3u8
+#EXTINF:-1 , 俄羅斯TRO聯盟號
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 , 俄羅斯烏格拉電視臺
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+#EXTINF:-1 , 波蘭明星電視臺
+http://starstv.live.e55-po.insyscd.net/starstvhd.smil/index.m3u8
+#EXTINF:-1 , 波蘭TV Kujawy（Opt-1）
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1 , 波蘭電視臺Torun
+http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+#EXTINF:-1 , 波蘭電視臺Trwam
+http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8
+#EXTINF:-1 , 紐西蘭3
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+#EXTINF:-1 , 奧地利KRALHD
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1 , 冰島RUV
+http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
+#EXTINF:-1 , 丹麥TV2博恩霍爾姆
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+#EXTINF:-1 , 丹麥電視臺
+http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
+#EXTINF:-1 , 挪威10月
+http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
+#EXTINF:-1 , 挪威Stortinget
+http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
+#EXTINF:-1 , 芬蘭電視1
+http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8
+#EXTINF:-1 , 芬蘭電視臺2
+http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p.m3u8
+#EXTINF:-1 , 瑞典坎納爾10
+http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8
+#EXTINF:-1 , 比利時無線電聯絡102.2 FM布魯塞爾
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1 , 比利時RTL-TVI
+http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+#EXTINF:-1 , 喀麥隆Vision 4
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:-1 , 瑞士Tele M1
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
+#EXTINF:-1 , 瑞士TeleBarn
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
+#EXTINF:-1 , 長期CGTN
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 , 鄰近La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1 , 靜止電視Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1 , 墨西哥首都21墨西哥城
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+#EXTINF:-1 , 墨西哥Milenio TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 , 墨西哥Teleformula（新）
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1 , 墨西哥Uno電視（VOD）
+http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
+#EXTINF:-1 , 阿根廷運河4波薩達斯
+http://184.154.28.210:1935/canal4/canal4/live.m3u8
+#EXTINF:-1 , 阿根廷運河省聖米格爾
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 , 阿根廷車庫電視
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 , 阿根廷Radio TV Neuquen
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+#EXTINF:-1 , 祕魯Antares TV
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 , 祕魯蒙特雷哥電視臺
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 , 祕魯電視祕魯
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0003&mode=12
+#EXTINF:-1 , 烏拉圭運河M
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
+#EXTINF:-1 , 哥斯大黎加Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 , 哥斯大黎加Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 , 羅馬尼亞克羅姆特電視臺
+http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
+#EXTINF:-1 , 羅馬尼亞Iasi TV Life
+http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
+#EXTINF:-1 , 羅馬尼亞Informatia TV
+http://webmobile.xdev.ro:81/tv9/playlist.m3u8
+#EXTINF:-1 , 摩爾多瓦電話M
+http://webmobile.xdev.ro:81/tv16/playlist.m3u8
+#EXTINF:-1 , 塞爾維亞Duga電視
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+#EXTINF:-1 , 塞爾維亞電視游擊隊
+http://212.200.102.3:5000/udp/239.99.99.99:23999
+#EXTINF:-1 , 塞爾維亞TVKopernikus2
+http://212.200.102.3:5000/rtp/239.0.0.2:5000
+#EXTINF:-1 , 塞爾維亞TVKopernikus3
+http://212.200.102.3:5000/rtp/239.0.0.3:5000
+#EXTINF:-1 , 波斯尼亞777 TehnikaTV
+http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
+#EXTINF:-1 , 馬其頓Sky Folk TV
+http://skyfolk.mk/live.m3u8
+#EXTINF:-1 , 烏克蘭100％新聞
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 , 烏克蘭
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 , 烏克蘭M2
+http://live.m2.tv/hls/stream.m3u8
+#EXTINF:-1 , 捷克復古（Opt-1）
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 , 靜止電視8
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+#EXTINF:-1 , 靜態TVNZ
+http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
+#EXTINF:-1 , 拉脫維亞Chau TV
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+#EXTINF:-1 , 拉脫維亞RETV
+http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
+#EXTINF:-1 , 拉脫維亞電視網
+http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+#EXTINF:-1 , 希臘福克斯電視臺
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1 , 希臘愛奧尼亞海峽
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+#EXTINF:-1 , 斯里蘭卡Sigma TV（Greek）
+http://81.21.47.74/hls/live.m3u8
+#EXTINF:-1 , 土耳其有線電視
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:-1 , 土耳其CNN特克
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 , 土耳其夢電視
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 , 土耳其Dreamturk電視
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:-1 , 土耳其Kanal D
+http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+#EXTINF:-1 , 土耳其梅克里斯電視臺
+http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
+#EXTINF:-1 , 以色列議會頻道
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 , 印度ABP Asmita
+http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
+#EXTINF:-1 , 印度DD新聞
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1 , 印度瓦薩斯電視臺（Tamil）
+http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed03?e=0&h=a9be0836bc39f96d0a9a958a659dfc1d&bgsecuredir=1
+#EXTINF:-1 , 巴基斯坦拉合爾新聞
+http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
+#EXTINF:-1 , 伊朗PBC Tapesh電視
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 , 伊朗朗格朗電視臺
+http://iptv.rangarang.us/live/playlist.m3u8
+#EXTINF:-1 , 阿拉伯半島電視新聞網Al Hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 , 阿拉伯半島電視新聞網CGTN
+http://live.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 , 阿拉伯半島電視新聞網Deutsche Welle
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:-1 , 阿拉伯半島電視新聞網TRT
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1 , 伊拉克Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 , 伊拉克Sharqiya新聞
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 , 阿拉伯聯合大公國Al Arabiya
+http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
+#EXTINF:-1 , 阿拉伯聯合大公國迪拜一
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:-1 , 卡達Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 , 卡達Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 , 摩洛哥Al Aoula國際
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1 , 摩洛哥Arryadia
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 , 摩洛哥Al Maghribia
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 , 迦納電視非洲（迦納）
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+#EXTINF:-1 , 高清時裝臺WFC
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
